@@ -1,6 +1,6 @@
-# Accessible Mail for Windows — releases
+# Accessible Workspace for Windows — releases
 
-Accessible Mail is a Gmail app for Windows built for JAWS, laid out like Outlook classic with the reading pane off.
+Accessible Workspace is a Gmail app for Windows built for JAWS, laid out like Outlook classic with the reading pane off.
 
 This repository holds only the releases. Each release has:
 
